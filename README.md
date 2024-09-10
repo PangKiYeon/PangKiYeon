@@ -4,8 +4,7 @@
 
 ### Tools & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,styledcomponents,tawilwind,bootstrap)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,cpp,flask,npm,yarn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,styledcomponents,tawilwind,bootstrap,figma,cpp,flask,npm,yarn,tensorflow)](https://skillicons.dev)
 
 
 ## Rewards & Activities
